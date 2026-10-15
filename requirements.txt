@@ -1,0 +1,8 @@
+Pillow
+ImageHash
+torch
+transformers
+easyocr
+openai
+playwright
+yt-dlp
